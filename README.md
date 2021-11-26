@@ -1,0 +1,2 @@
+# firestore-explorer
+Firestore Explorer
